@@ -24,6 +24,8 @@ instructionArgumentsTypes = {
 }
 
 
+
+
 # dictionary with keys which represents number of arguments for each instruction which are displayed in the dictonary as values 
 # this part is also implemented in parser / syntactic check
 instructionNumOfArguments = {

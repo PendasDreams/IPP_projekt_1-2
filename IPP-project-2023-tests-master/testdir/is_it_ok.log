@@ -1,0 +1,8 @@
+Archive:  xnovos14.zip
+  inflating: parse.php               
+ extracting: readme1.pdf             
+//*************** NAPOVEDA KE SKRIPTU parse.php **************//
+Ucel skriptu:
+Tento skript nacte ze standardniho vstupu zdrojovy kod v jazyce IPPcode22, zkontroluje lexikalni a syntaktickou spravnost kodu a vypise na standardni vystup XML reprezentaci programu. 
+Pouziti skriptu:
+php8.1 parse.php [options] <vstupni_soubor >vystupni_soubor
